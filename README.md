@@ -14,7 +14,7 @@ Pomodoro Clock (w/ React)
 5. User Story: I can customize the length of each pomodoro.
 
 
-[Demo at CodePen](http://codepen.io/van100j/full/xReYej/)
+[Demo at CodePen](http://codepen.io/van100j/full/eBobzX/)
 
 ### Usage
 
